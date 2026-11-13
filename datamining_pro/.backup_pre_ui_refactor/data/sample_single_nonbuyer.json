@@ -1,0 +1,4 @@
+[
+  {"session_id": "BOUNCE_VISITOR_002", "timestamp": "2024-03-01 14:00:00", "page_name": "home", "event_type": "page_view", "dwell_time_seconds": 12},
+  {"session_id": "BOUNCE_VISITOR_002", "timestamp": "2024-03-01 14:00:15", "page_name": "faq", "event_type": "page_view", "dwell_time_seconds": 10}
+]

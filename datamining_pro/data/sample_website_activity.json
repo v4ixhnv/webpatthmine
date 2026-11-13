@@ -1,0 +1,4052 @@
+[
+  {
+    "session_id": "SESS_00001",
+    "timestamp": "2024-03-09 15:24:20",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00001",
+    "timestamp": "2024-03-09 15:24:41",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00001",
+    "timestamp": "2024-03-09 15:24:59",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 100
+  },
+  {
+    "session_id": "SESS_00001",
+    "timestamp": "2024-03-09 15:26:44",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 16
+  },
+  {
+    "session_id": "SESS_00001",
+    "timestamp": "2024-03-09 15:27:04",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00002",
+    "timestamp": "2024-03-03 00:33:20",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00002",
+    "timestamp": "2024-03-03 00:34:16",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 43
+  },
+  {
+    "session_id": "SESS_00002",
+    "timestamp": "2024-03-03 00:35:04",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00002",
+    "timestamp": "2024-03-03 00:35:19",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 52
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:09:46",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:10:44",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 42
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:11:28",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 12
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:11:44",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 61
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:12:47",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:13:05",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 138
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:15:30",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 84
+  },
+  {
+    "session_id": "SESS_00003",
+    "timestamp": "2024-03-01 11:16:56",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00004",
+    "timestamp": "2024-03-12 07:07:07",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00004",
+    "timestamp": "2024-03-12 07:07:25",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 32
+  },
+  {
+    "session_id": "SESS_00004",
+    "timestamp": "2024-03-12 07:08:00",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 58
+  },
+  {
+    "session_id": "SESS_00004",
+    "timestamp": "2024-03-12 07:09:01",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00005",
+    "timestamp": "2024-03-06 02:33:43",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 136
+  },
+  {
+    "session_id": "SESS_00005",
+    "timestamp": "2024-03-06 02:36:06",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 127
+  },
+  {
+    "session_id": "SESS_00005",
+    "timestamp": "2024-03-06 02:38:20",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00005",
+    "timestamp": "2024-03-06 02:38:41",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 156
+  },
+  {
+    "session_id": "SESS_00005",
+    "timestamp": "2024-03-06 02:41:23",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 32
+  },
+  {
+    "session_id": "SESS_00005",
+    "timestamp": "2024-03-06 02:41:58",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00006",
+    "timestamp": "2024-03-05 17:31:44",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "exit",
+    "dwell_time_seconds": 16
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:47:07",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:47:21",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:47:44",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 80
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:49:08",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:49:24",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:49:41",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:50:37",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00007",
+    "timestamp": "2024-03-02 17:50:58",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00008",
+    "timestamp": "2024-03-08 02:42:00",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 31
+  },
+  {
+    "session_id": "SESS_00008",
+    "timestamp": "2024-03-08 02:42:38",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 95
+  },
+  {
+    "session_id": "SESS_00008",
+    "timestamp": "2024-03-08 02:44:19",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 47
+  },
+  {
+    "session_id": "SESS_00008",
+    "timestamp": "2024-03-08 02:45:13",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 40
+  },
+  {
+    "session_id": "SESS_00008",
+    "timestamp": "2024-03-08 02:45:55",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 65
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 09:55:31",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 63
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 09:56:40",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 09:57:08",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 09:57:58",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 21
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 09:58:23",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 63
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 09:59:31",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 129
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 10:01:46",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 25
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 10:02:17",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 102
+  },
+  {
+    "session_id": "SESS_00009",
+    "timestamp": "2024-03-07 10:04:04",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 21
+  },
+  {
+    "session_id": "SESS_00010",
+    "timestamp": "2024-03-08 10:30:27",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00010",
+    "timestamp": "2024-03-08 10:31:03",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00011",
+    "timestamp": "2024-03-07 21:54:38",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00011",
+    "timestamp": "2024-03-07 21:55:00",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00011",
+    "timestamp": "2024-03-07 21:55:40",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 63
+  },
+  {
+    "session_id": "SESS_00011",
+    "timestamp": "2024-03-07 21:56:46",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00011",
+    "timestamp": "2024-03-07 21:57:18",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00012",
+    "timestamp": "2024-03-13 14:35:38",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 40
+  },
+  {
+    "session_id": "SESS_00012",
+    "timestamp": "2024-03-13 14:36:20",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00012",
+    "timestamp": "2024-03-13 14:36:39",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 23
+  },
+  {
+    "session_id": "SESS_00012",
+    "timestamp": "2024-03-13 14:37:05",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 41
+  },
+  {
+    "session_id": "SESS_00012",
+    "timestamp": "2024-03-13 14:37:53",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00012",
+    "timestamp": "2024-03-13 14:38:06",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 55
+  },
+  {
+    "session_id": "SESS_00013",
+    "timestamp": "2024-03-05 08:31:05",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00013",
+    "timestamp": "2024-03-05 08:31:32",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00013",
+    "timestamp": "2024-03-05 08:31:49",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00013",
+    "timestamp": "2024-03-05 08:32:18",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 30
+  },
+  {
+    "session_id": "SESS_00013",
+    "timestamp": "2024-03-05 08:32:53",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 194
+  },
+  {
+    "session_id": "SESS_00013",
+    "timestamp": "2024-03-05 08:36:14",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00013",
+    "timestamp": "2024-03-05 08:37:00",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00014",
+    "timestamp": "2024-03-05 21:06:25",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 42
+  },
+  {
+    "session_id": "SESS_00014",
+    "timestamp": "2024-03-05 21:07:11",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00014",
+    "timestamp": "2024-03-05 21:07:45",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 136
+  },
+  {
+    "session_id": "SESS_00014",
+    "timestamp": "2024-03-05 21:10:04",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 91
+  },
+  {
+    "session_id": "SESS_00014",
+    "timestamp": "2024-03-05 21:11:39",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00014",
+    "timestamp": "2024-03-05 21:12:09",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00015",
+    "timestamp": "2024-03-12 16:51:48",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00015",
+    "timestamp": "2024-03-12 16:52:17",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 112
+  },
+  {
+    "session_id": "SESS_00015",
+    "timestamp": "2024-03-12 16:54:15",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 106
+  },
+  {
+    "session_id": "SESS_00015",
+    "timestamp": "2024-03-12 16:56:03",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 24
+  },
+  {
+    "session_id": "SESS_00015",
+    "timestamp": "2024-03-12 16:56:31",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 68
+  },
+  {
+    "session_id": "SESS_00016",
+    "timestamp": "2024-03-09 19:03:51",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00016",
+    "timestamp": "2024-03-09 19:04:09",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 112
+  },
+  {
+    "session_id": "SESS_00017",
+    "timestamp": "2024-03-05 05:12:34",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 173
+  },
+  {
+    "session_id": "SESS_00017",
+    "timestamp": "2024-03-05 05:15:30",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00017",
+    "timestamp": "2024-03-05 05:15:50",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 39
+  },
+  {
+    "session_id": "SESS_00017",
+    "timestamp": "2024-03-05 05:16:33",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 57
+  },
+  {
+    "session_id": "SESS_00017",
+    "timestamp": "2024-03-05 05:17:32",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00018",
+    "timestamp": "2024-03-04 02:27:55",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 57
+  },
+  {
+    "session_id": "SESS_00018",
+    "timestamp": "2024-03-04 02:28:56",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 58
+  },
+  {
+    "session_id": "SESS_00018",
+    "timestamp": "2024-03-04 02:29:56",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 45
+  },
+  {
+    "session_id": "SESS_00018",
+    "timestamp": "2024-03-04 02:30:45",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 30
+  },
+  {
+    "session_id": "SESS_00018",
+    "timestamp": "2024-03-04 02:31:22",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00019",
+    "timestamp": "2024-03-05 10:15:26",
+    "page_path": "/account_profile",
+    "page_name": "account_profile",
+    "page_category": "Account",
+    "event_type": "page_view",
+    "dwell_time_seconds": 35
+  },
+  {
+    "session_id": "SESS_00019",
+    "timestamp": "2024-03-05 10:16:07",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 41
+  },
+  {
+    "session_id": "SESS_00020",
+    "timestamp": "2024-03-06 21:16:47",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 24
+  },
+  {
+    "session_id": "SESS_00020",
+    "timestamp": "2024-03-06 21:17:15",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 75
+  },
+  {
+    "session_id": "SESS_00020",
+    "timestamp": "2024-03-06 21:18:32",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 244
+  },
+  {
+    "session_id": "SESS_00020",
+    "timestamp": "2024-03-06 21:22:43",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 148
+  },
+  {
+    "session_id": "SESS_00021",
+    "timestamp": "2024-03-02 01:40:23",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00021",
+    "timestamp": "2024-03-02 01:40:58",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 163
+  },
+  {
+    "session_id": "SESS_00022",
+    "timestamp": "2024-03-13 09:24:31",
+    "page_path": "/account_profile",
+    "page_name": "account_profile",
+    "page_category": "Account",
+    "event_type": "page_view",
+    "dwell_time_seconds": 95
+  },
+  {
+    "session_id": "SESS_00022",
+    "timestamp": "2024-03-13 09:26:10",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00022",
+    "timestamp": "2024-03-13 09:26:30",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 32
+  },
+  {
+    "session_id": "SESS_00023",
+    "timestamp": "2024-03-04 00:23:49",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 52
+  },
+  {
+    "session_id": "SESS_00023",
+    "timestamp": "2024-03-04 00:24:48",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00023",
+    "timestamp": "2024-03-04 00:25:21",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 25
+  },
+  {
+    "session_id": "SESS_00023",
+    "timestamp": "2024-03-04 00:25:49",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 70
+  },
+  {
+    "session_id": "SESS_00024",
+    "timestamp": "2024-03-06 08:06:28",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "page_view",
+    "dwell_time_seconds": 25
+  },
+  {
+    "session_id": "SESS_00024",
+    "timestamp": "2024-03-06 08:06:56",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 84
+  },
+  {
+    "session_id": "SESS_00024",
+    "timestamp": "2024-03-06 08:08:22",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 52
+  },
+  {
+    "session_id": "SESS_00024",
+    "timestamp": "2024-03-06 08:09:19",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 42
+  },
+  {
+    "session_id": "SESS_00024",
+    "timestamp": "2024-03-06 08:10:03",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 54
+  },
+  {
+    "session_id": "SESS_00024",
+    "timestamp": "2024-03-06 08:11:02",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 57
+  },
+  {
+    "session_id": "SESS_00024",
+    "timestamp": "2024-03-06 08:12:06",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 81
+  },
+  {
+    "session_id": "SESS_00025",
+    "timestamp": "2024-03-10 10:41:31",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 48
+  },
+  {
+    "session_id": "SESS_00025",
+    "timestamp": "2024-03-10 10:42:26",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00025",
+    "timestamp": "2024-03-10 10:42:56",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 45
+  },
+  {
+    "session_id": "SESS_00026",
+    "timestamp": "2024-03-08 05:07:41",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 87
+  },
+  {
+    "session_id": "SESS_00027",
+    "timestamp": "2024-03-11 11:19:52",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 24
+  },
+  {
+    "session_id": "SESS_00027",
+    "timestamp": "2024-03-11 11:20:21",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00027",
+    "timestamp": "2024-03-11 11:21:19",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 93
+  },
+  {
+    "session_id": "SESS_00027",
+    "timestamp": "2024-03-11 11:22:57",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 33
+  },
+  {
+    "session_id": "SESS_00027",
+    "timestamp": "2024-03-11 11:23:34",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 55
+  },
+  {
+    "session_id": "SESS_00028",
+    "timestamp": "2024-03-10 15:37:29",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00028",
+    "timestamp": "2024-03-10 15:37:44",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 36
+  },
+  {
+    "session_id": "SESS_00028",
+    "timestamp": "2024-03-10 15:38:23",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00028",
+    "timestamp": "2024-03-10 15:38:40",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00028",
+    "timestamp": "2024-03-10 15:38:55",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 62
+  },
+  {
+    "session_id": "SESS_00028",
+    "timestamp": "2024-03-10 15:39:59",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00028",
+    "timestamp": "2024-03-10 15:40:19",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 36
+  },
+  {
+    "session_id": "SESS_00029",
+    "timestamp": "2024-03-10 11:44:15",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 42
+  },
+  {
+    "session_id": "SESS_00029",
+    "timestamp": "2024-03-10 11:45:03",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 52
+  },
+  {
+    "session_id": "SESS_00029",
+    "timestamp": "2024-03-10 11:45:59",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00029",
+    "timestamp": "2024-03-10 11:46:25",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 73
+  },
+  {
+    "session_id": "SESS_00029",
+    "timestamp": "2024-03-10 11:47:40",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00029",
+    "timestamp": "2024-03-10 11:48:13",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 12
+  },
+  {
+    "session_id": "SESS_00029",
+    "timestamp": "2024-03-10 11:48:27",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 26
+  },
+  {
+    "session_id": "SESS_00030",
+    "timestamp": "2024-03-08 14:17:25",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 40
+  },
+  {
+    "session_id": "SESS_00030",
+    "timestamp": "2024-03-08 14:18:10",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00030",
+    "timestamp": "2024-03-08 14:18:35",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 57
+  },
+  {
+    "session_id": "SESS_00030",
+    "timestamp": "2024-03-08 14:19:35",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00031",
+    "timestamp": "2024-03-09 14:42:57",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 41
+  },
+  {
+    "session_id": "SESS_00031",
+    "timestamp": "2024-03-09 14:43:44",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 61
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:11:23",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 60
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:12:27",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 56
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:13:25",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 85
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:14:54",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 137
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:17:15",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 87
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:18:45",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:19:11",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00032",
+    "timestamp": "2024-03-01 22:19:31",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00033",
+    "timestamp": "2024-03-12 15:21:09",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00033",
+    "timestamp": "2024-03-12 15:21:23",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 23
+  },
+  {
+    "session_id": "SESS_00033",
+    "timestamp": "2024-03-12 15:21:51",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 63
+  },
+  {
+    "session_id": "SESS_00033",
+    "timestamp": "2024-03-12 15:22:57",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 54
+  },
+  {
+    "session_id": "SESS_00033",
+    "timestamp": "2024-03-12 15:23:57",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00034",
+    "timestamp": "2024-03-09 10:17:36",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 72
+  },
+  {
+    "session_id": "SESS_00035",
+    "timestamp": "2024-03-04 20:33:48",
+    "page_path": "/account_profile",
+    "page_name": "account_profile",
+    "page_category": "Account",
+    "event_type": "page_view",
+    "dwell_time_seconds": 77
+  },
+  {
+    "session_id": "SESS_00035",
+    "timestamp": "2024-03-04 20:35:12",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 47
+  },
+  {
+    "session_id": "SESS_00036",
+    "timestamp": "2024-03-11 10:32:34",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00036",
+    "timestamp": "2024-03-11 10:32:50",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00036",
+    "timestamp": "2024-03-11 10:33:39",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 88
+  },
+  {
+    "session_id": "SESS_00036",
+    "timestamp": "2024-03-11 10:35:14",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 25
+  },
+  {
+    "session_id": "SESS_00036",
+    "timestamp": "2024-03-11 10:35:43",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 32
+  },
+  {
+    "session_id": "SESS_00037",
+    "timestamp": "2024-03-04 05:31:08",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "exit",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00038",
+    "timestamp": "2024-03-05 03:26:15",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 36
+  },
+  {
+    "session_id": "SESS_00038",
+    "timestamp": "2024-03-05 03:26:55",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 51
+  },
+  {
+    "session_id": "SESS_00038",
+    "timestamp": "2024-03-05 03:27:51",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 60
+  },
+  {
+    "session_id": "SESS_00038",
+    "timestamp": "2024-03-05 03:28:56",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 141
+  },
+  {
+    "session_id": "SESS_00039",
+    "timestamp": "2024-03-09 02:14:13",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 45
+  },
+  {
+    "session_id": "SESS_00039",
+    "timestamp": "2024-03-09 02:15:04",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 70
+  },
+  {
+    "session_id": "SESS_00039",
+    "timestamp": "2024-03-09 02:16:20",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00039",
+    "timestamp": "2024-03-09 02:16:52",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 165
+  },
+  {
+    "session_id": "SESS_00039",
+    "timestamp": "2024-03-09 02:19:39",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 74
+  },
+  {
+    "session_id": "SESS_00039",
+    "timestamp": "2024-03-09 02:20:58",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 100
+  },
+  {
+    "session_id": "SESS_00040",
+    "timestamp": "2024-03-05 17:13:08",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 87
+  },
+  {
+    "session_id": "SESS_00040",
+    "timestamp": "2024-03-05 17:14:38",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00040",
+    "timestamp": "2024-03-05 17:15:01",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00040",
+    "timestamp": "2024-03-05 17:15:18",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 49
+  },
+  {
+    "session_id": "SESS_00040",
+    "timestamp": "2024-03-05 17:16:13",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 30
+  },
+  {
+    "session_id": "SESS_00040",
+    "timestamp": "2024-03-05 17:16:48",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00041",
+    "timestamp": "2024-03-15 03:10:18",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 77
+  },
+  {
+    "session_id": "SESS_00041",
+    "timestamp": "2024-03-15 03:11:42",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 64
+  },
+  {
+    "session_id": "SESS_00041",
+    "timestamp": "2024-03-15 03:12:49",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 116
+  },
+  {
+    "session_id": "SESS_00041",
+    "timestamp": "2024-03-15 03:14:52",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 40
+  },
+  {
+    "session_id": "SESS_00041",
+    "timestamp": "2024-03-15 03:15:38",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 33
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:36:38",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 71
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:37:55",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:38:19",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 31
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:38:52",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:39:07",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 21
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:39:35",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 82
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:41:03",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 167
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:43:56",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00042",
+    "timestamp": "2024-03-07 23:44:30",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 126
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:43:56",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 43
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:44:41",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:45:03",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 54
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:46:04",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 31
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:46:37",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 121
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:48:41",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 145
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:51:13",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 37
+  },
+  {
+    "session_id": "SESS_00043",
+    "timestamp": "2024-03-10 22:51:55",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00044",
+    "timestamp": "2024-03-14 14:49:49",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 23
+  },
+  {
+    "session_id": "SESS_00044",
+    "timestamp": "2024-03-14 14:50:18",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 174
+  },
+  {
+    "session_id": "SESS_00044",
+    "timestamp": "2024-03-14 14:53:16",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 63
+  },
+  {
+    "session_id": "SESS_00044",
+    "timestamp": "2024-03-14 14:54:21",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 24
+  },
+  {
+    "session_id": "SESS_00044",
+    "timestamp": "2024-03-14 14:54:51",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 85
+  },
+  {
+    "session_id": "SESS_00045",
+    "timestamp": "2024-03-10 03:17:17",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00045",
+    "timestamp": "2024-03-10 03:17:57",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 52
+  },
+  {
+    "session_id": "SESS_00045",
+    "timestamp": "2024-03-10 03:18:52",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00045",
+    "timestamp": "2024-03-10 03:19:12",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 100
+  },
+  {
+    "session_id": "SESS_00045",
+    "timestamp": "2024-03-10 03:20:58",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00045",
+    "timestamp": "2024-03-10 03:21:18",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 77
+  },
+  {
+    "session_id": "SESS_00046",
+    "timestamp": "2024-03-04 05:18:24",
+    "page_path": "/account_profile",
+    "page_name": "account_profile",
+    "page_category": "Account",
+    "event_type": "page_view",
+    "dwell_time_seconds": 167
+  },
+  {
+    "session_id": "SESS_00046",
+    "timestamp": "2024-03-04 05:21:15",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 47
+  },
+  {
+    "session_id": "SESS_00046",
+    "timestamp": "2024-03-04 05:22:04",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 38
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:43:16",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:44:06",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 266
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:48:38",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 49
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:49:33",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 140
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:51:56",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 31
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:52:33",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 36
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:53:16",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 23
+  },
+  {
+    "session_id": "SESS_00047",
+    "timestamp": "2024-03-10 04:53:45",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 51
+  },
+  {
+    "session_id": "SESS_00048",
+    "timestamp": "2024-03-03 16:59:30",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00048",
+    "timestamp": "2024-03-03 16:59:48",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 41
+  },
+  {
+    "session_id": "SESS_00049",
+    "timestamp": "2024-03-04 08:43:00",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 46
+  },
+  {
+    "session_id": "SESS_00050",
+    "timestamp": "2024-03-14 15:58:46",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00050",
+    "timestamp": "2024-03-14 15:59:26",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00050",
+    "timestamp": "2024-03-14 16:00:22",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 83
+  },
+  {
+    "session_id": "SESS_00050",
+    "timestamp": "2024-03-14 16:01:52",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00050",
+    "timestamp": "2024-03-14 16:02:48",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00050",
+    "timestamp": "2024-03-14 16:03:20",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 55
+  },
+  {
+    "session_id": "SESS_00051",
+    "timestamp": "2024-03-07 23:10:29",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00051",
+    "timestamp": "2024-03-07 23:11:26",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 63
+  },
+  {
+    "session_id": "SESS_00051",
+    "timestamp": "2024-03-07 23:12:35",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00051",
+    "timestamp": "2024-03-07 23:12:54",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 40
+  },
+  {
+    "session_id": "SESS_00051",
+    "timestamp": "2024-03-07 23:13:39",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00051",
+    "timestamp": "2024-03-07 23:13:58",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 186
+  },
+  {
+    "session_id": "SESS_00052",
+    "timestamp": "2024-03-09 19:54:50",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00052",
+    "timestamp": "2024-03-09 19:55:38",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 16
+  },
+  {
+    "session_id": "SESS_00052",
+    "timestamp": "2024-03-09 19:55:59",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00052",
+    "timestamp": "2024-03-09 19:56:20",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 112
+  },
+  {
+    "session_id": "SESS_00052",
+    "timestamp": "2024-03-09 19:58:16",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 42
+  },
+  {
+    "session_id": "SESS_00052",
+    "timestamp": "2024-03-09 19:59:01",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 51
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:36:05",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:36:22",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:36:58",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 30
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:37:35",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:38:07",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:38:20",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 39
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:39:06",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:39:26",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00053",
+    "timestamp": "2024-03-10 20:39:49",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00054",
+    "timestamp": "2024-03-11 04:18:51",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00055",
+    "timestamp": "2024-03-02 19:25:23",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 67
+  },
+  {
+    "session_id": "SESS_00055",
+    "timestamp": "2024-03-02 19:26:33",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00055",
+    "timestamp": "2024-03-02 19:26:48",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 66
+  },
+  {
+    "session_id": "SESS_00055",
+    "timestamp": "2024-03-02 19:28:01",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 72
+  },
+  {
+    "session_id": "SESS_00055",
+    "timestamp": "2024-03-02 19:29:18",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00056",
+    "timestamp": "2024-03-10 17:03:24",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 70
+  },
+  {
+    "session_id": "SESS_00056",
+    "timestamp": "2024-03-10 17:04:39",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00056",
+    "timestamp": "2024-03-10 17:04:51",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 92
+  },
+  {
+    "session_id": "SESS_00056",
+    "timestamp": "2024-03-10 17:06:30",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00056",
+    "timestamp": "2024-03-10 17:07:02",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 21
+  },
+  {
+    "session_id": "SESS_00057",
+    "timestamp": "2024-03-07 01:38:40",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 41
+  },
+  {
+    "session_id": "SESS_00057",
+    "timestamp": "2024-03-07 01:39:26",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00057",
+    "timestamp": "2024-03-07 01:40:13",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 46
+  },
+  {
+    "session_id": "SESS_00057",
+    "timestamp": "2024-03-07 01:41:01",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 47
+  },
+  {
+    "session_id": "SESS_00057",
+    "timestamp": "2024-03-07 01:41:51",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 25
+  },
+  {
+    "session_id": "SESS_00058",
+    "timestamp": "2024-03-08 09:27:58",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 203
+  },
+  {
+    "session_id": "SESS_00058",
+    "timestamp": "2024-03-08 09:31:27",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 132
+  },
+  {
+    "session_id": "SESS_00059",
+    "timestamp": "2024-03-09 09:33:10",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00059",
+    "timestamp": "2024-03-09 09:33:31",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00059",
+    "timestamp": "2024-03-09 09:33:51",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00059",
+    "timestamp": "2024-03-09 09:34:08",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00059",
+    "timestamp": "2024-03-09 09:34:24",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 191
+  },
+  {
+    "session_id": "SESS_00059",
+    "timestamp": "2024-03-09 09:37:42",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 32
+  },
+  {
+    "session_id": "SESS_00059",
+    "timestamp": "2024-03-09 09:38:19",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 122
+  },
+  {
+    "session_id": "SESS_00060",
+    "timestamp": "2024-03-11 06:29:50",
+    "page_path": "/account_profile",
+    "page_name": "account_profile",
+    "page_category": "Account",
+    "event_type": "page_view",
+    "dwell_time_seconds": 87
+  },
+  {
+    "session_id": "SESS_00060",
+    "timestamp": "2024-03-11 06:31:20",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 46
+  },
+  {
+    "session_id": "SESS_00061",
+    "timestamp": "2024-03-05 19:49:25",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00061",
+    "timestamp": "2024-03-05 19:49:56",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00061",
+    "timestamp": "2024-03-05 19:50:21",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00061",
+    "timestamp": "2024-03-05 19:50:45",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 52
+  },
+  {
+    "session_id": "SESS_00061",
+    "timestamp": "2024-03-05 19:51:44",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 49
+  },
+  {
+    "session_id": "SESS_00062",
+    "timestamp": "2024-03-06 04:28:42",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "exit",
+    "dwell_time_seconds": 50
+  },
+  {
+    "session_id": "SESS_00063",
+    "timestamp": "2024-03-02 20:59:01",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00063",
+    "timestamp": "2024-03-02 20:59:31",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00063",
+    "timestamp": "2024-03-02 20:59:51",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00063",
+    "timestamp": "2024-03-02 21:00:03",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 50
+  },
+  {
+    "session_id": "SESS_00063",
+    "timestamp": "2024-03-02 21:01:00",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 33
+  },
+  {
+    "session_id": "SESS_00063",
+    "timestamp": "2024-03-02 21:01:40",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00064",
+    "timestamp": "2024-03-01 11:55:49",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00065",
+    "timestamp": "2024-03-14 12:59:34",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "exit",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:04:36",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:05:03",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 88
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:06:37",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 85
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:08:06",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 55
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:09:08",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 30
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:09:44",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 49
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:10:36",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 86
+  },
+  {
+    "session_id": "SESS_00066",
+    "timestamp": "2024-03-07 15:12:09",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 113
+  },
+  {
+    "session_id": "SESS_00067",
+    "timestamp": "2024-03-14 05:34:32",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 21
+  },
+  {
+    "session_id": "SESS_00067",
+    "timestamp": "2024-03-14 05:34:55",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 32
+  },
+  {
+    "session_id": "SESS_00067",
+    "timestamp": "2024-03-14 05:35:30",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 45
+  },
+  {
+    "session_id": "SESS_00067",
+    "timestamp": "2024-03-14 05:36:19",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 45
+  },
+  {
+    "session_id": "SESS_00067",
+    "timestamp": "2024-03-14 05:37:11",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 136
+  },
+  {
+    "session_id": "SESS_00068",
+    "timestamp": "2024-03-05 08:28:32",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00068",
+    "timestamp": "2024-03-05 08:29:20",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 79
+  },
+  {
+    "session_id": "SESS_00068",
+    "timestamp": "2024-03-05 08:30:46",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 72
+  },
+  {
+    "session_id": "SESS_00068",
+    "timestamp": "2024-03-05 08:32:04",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00068",
+    "timestamp": "2024-03-05 08:32:28",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00068",
+    "timestamp": "2024-03-05 08:32:46",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 66
+  },
+  {
+    "session_id": "SESS_00069",
+    "timestamp": "2024-03-05 18:11:44",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 16
+  },
+  {
+    "session_id": "SESS_00069",
+    "timestamp": "2024-03-05 18:12:06",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00070",
+    "timestamp": "2024-03-12 06:50:30",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 51
+  },
+  {
+    "session_id": "SESS_00070",
+    "timestamp": "2024-03-12 06:51:26",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 45
+  },
+  {
+    "session_id": "SESS_00070",
+    "timestamp": "2024-03-12 06:52:15",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 51
+  },
+  {
+    "session_id": "SESS_00070",
+    "timestamp": "2024-03-12 06:53:11",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00070",
+    "timestamp": "2024-03-12 06:53:33",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00071",
+    "timestamp": "2024-03-08 15:41:42",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00071",
+    "timestamp": "2024-03-08 15:42:05",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 16
+  },
+  {
+    "session_id": "SESS_00071",
+    "timestamp": "2024-03-08 15:42:24",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 52
+  },
+  {
+    "session_id": "SESS_00071",
+    "timestamp": "2024-03-08 15:43:21",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 50
+  },
+  {
+    "session_id": "SESS_00071",
+    "timestamp": "2024-03-08 15:44:16",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 47
+  },
+  {
+    "session_id": "SESS_00072",
+    "timestamp": "2024-03-05 11:19:41",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 76
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:17:10",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 36
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:17:53",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 22
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:18:18",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 92
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:19:57",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 91
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:21:30",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 101
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:23:15",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 50
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:24:11",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 31
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:24:48",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00073",
+    "timestamp": "2024-03-03 23:25:21",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 79
+  },
+  {
+    "session_id": "SESS_00074",
+    "timestamp": "2024-03-13 02:00:25",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 123
+  },
+  {
+    "session_id": "SESS_00074",
+    "timestamp": "2024-03-13 02:02:31",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 38
+  },
+  {
+    "session_id": "SESS_00074",
+    "timestamp": "2024-03-13 02:03:13",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 70
+  },
+  {
+    "session_id": "SESS_00074",
+    "timestamp": "2024-03-13 02:04:25",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 49
+  },
+  {
+    "session_id": "SESS_00074",
+    "timestamp": "2024-03-13 02:05:18",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 37
+  },
+  {
+    "session_id": "SESS_00075",
+    "timestamp": "2024-03-05 00:19:05",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 11
+  },
+  {
+    "session_id": "SESS_00075",
+    "timestamp": "2024-03-05 00:19:18",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 30
+  },
+  {
+    "session_id": "SESS_00075",
+    "timestamp": "2024-03-05 00:19:52",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 55
+  },
+  {
+    "session_id": "SESS_00075",
+    "timestamp": "2024-03-05 00:20:52",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00075",
+    "timestamp": "2024-03-05 00:21:14",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00076",
+    "timestamp": "2024-03-08 05:16:39",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "page_view",
+    "dwell_time_seconds": 41
+  },
+  {
+    "session_id": "SESS_00076",
+    "timestamp": "2024-03-08 05:17:22",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 26
+  },
+  {
+    "session_id": "SESS_00076",
+    "timestamp": "2024-03-08 05:17:55",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 72
+  },
+  {
+    "session_id": "SESS_00077",
+    "timestamp": "2024-03-02 18:39:29",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00078",
+    "timestamp": "2024-03-14 03:29:00",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 77
+  },
+  {
+    "session_id": "SESS_00078",
+    "timestamp": "2024-03-14 03:30:20",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 43
+  },
+  {
+    "session_id": "SESS_00078",
+    "timestamp": "2024-03-14 03:31:08",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 39
+  },
+  {
+    "session_id": "SESS_00078",
+    "timestamp": "2024-03-14 03:31:54",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 46
+  },
+  {
+    "session_id": "SESS_00078",
+    "timestamp": "2024-03-14 03:32:45",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:13:09",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 112
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:15:04",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 33
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:15:42",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 92
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:17:20",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 33
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:17:55",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 21
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:18:20",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 41
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:19:08",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00079",
+    "timestamp": "2024-03-04 17:19:42",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00080",
+    "timestamp": "2024-03-06 20:50:31",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 211
+  },
+  {
+    "session_id": "SESS_00080",
+    "timestamp": "2024-03-06 20:54:09",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 89
+  },
+  {
+    "session_id": "SESS_00080",
+    "timestamp": "2024-03-06 20:55:43",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 140
+  },
+  {
+    "session_id": "SESS_00080",
+    "timestamp": "2024-03-06 20:58:10",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 20
+  },
+  {
+    "session_id": "SESS_00080",
+    "timestamp": "2024-03-06 20:58:33",
+    "page_path": "/help_faq",
+    "page_name": "help_faq",
+    "page_category": "Support",
+    "event_type": "exit",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00081",
+    "timestamp": "2024-03-10 22:59:28",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00081",
+    "timestamp": "2024-03-10 23:00:05",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 118
+  },
+  {
+    "session_id": "SESS_00081",
+    "timestamp": "2024-03-10 23:02:09",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00081",
+    "timestamp": "2024-03-10 23:02:40",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 88
+  },
+  {
+    "session_id": "SESS_00081",
+    "timestamp": "2024-03-10 23:04:12",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 50
+  },
+  {
+    "session_id": "SESS_00081",
+    "timestamp": "2024-03-10 23:05:07",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 89
+  },
+  {
+    "session_id": "SESS_00082",
+    "timestamp": "2024-03-06 06:03:34",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 143
+  },
+  {
+    "session_id": "SESS_00082",
+    "timestamp": "2024-03-06 06:06:04",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 78
+  },
+  {
+    "session_id": "SESS_00082",
+    "timestamp": "2024-03-06 06:07:24",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 101
+  },
+  {
+    "session_id": "SESS_00082",
+    "timestamp": "2024-03-06 06:09:09",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 111
+  },
+  {
+    "session_id": "SESS_00082",
+    "timestamp": "2024-03-06 06:11:02",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 39
+  },
+  {
+    "session_id": "SESS_00083",
+    "timestamp": "2024-03-07 04:28:24",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 23
+  },
+  {
+    "session_id": "SESS_00083",
+    "timestamp": "2024-03-07 04:28:54",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 56
+  },
+  {
+    "session_id": "SESS_00083",
+    "timestamp": "2024-03-07 04:29:57",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 197
+  },
+  {
+    "session_id": "SESS_00083",
+    "timestamp": "2024-03-07 04:33:17",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 113
+  },
+  {
+    "session_id": "SESS_00083",
+    "timestamp": "2024-03-07 04:35:13",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 24
+  },
+  {
+    "session_id": "SESS_00084",
+    "timestamp": "2024-03-05 03:15:40",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 24
+  },
+  {
+    "session_id": "SESS_00085",
+    "timestamp": "2024-03-10 06:35:22",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 15
+  },
+  {
+    "session_id": "SESS_00085",
+    "timestamp": "2024-03-10 06:35:44",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 16
+  },
+  {
+    "session_id": "SESS_00085",
+    "timestamp": "2024-03-10 06:36:02",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 23
+  },
+  {
+    "session_id": "SESS_00085",
+    "timestamp": "2024-03-10 06:36:29",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 50
+  },
+  {
+    "session_id": "SESS_00085",
+    "timestamp": "2024-03-10 06:37:24",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 55
+  },
+  {
+    "session_id": "SESS_00086",
+    "timestamp": "2024-03-03 09:29:20",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "page_view",
+    "dwell_time_seconds": 31
+  },
+  {
+    "session_id": "SESS_00086",
+    "timestamp": "2024-03-03 09:29:54",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00086",
+    "timestamp": "2024-03-03 09:30:31",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 18
+  },
+  {
+    "session_id": "SESS_00086",
+    "timestamp": "2024-03-03 09:30:53",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00086",
+    "timestamp": "2024-03-03 09:31:18",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 51
+  },
+  {
+    "session_id": "SESS_00086",
+    "timestamp": "2024-03-03 09:32:12",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00086",
+    "timestamp": "2024-03-03 09:32:29",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 25
+  },
+  {
+    "session_id": "SESS_00087",
+    "timestamp": "2024-03-13 15:17:33",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 32
+  },
+  {
+    "session_id": "SESS_00087",
+    "timestamp": "2024-03-13 15:18:12",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 16
+  },
+  {
+    "session_id": "SESS_00087",
+    "timestamp": "2024-03-13 15:18:30",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 24
+  },
+  {
+    "session_id": "SESS_00087",
+    "timestamp": "2024-03-13 15:18:59",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 17
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:52:42",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 28
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:53:13",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 38
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:53:53",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 13
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:54:08",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 33
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:54:47",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 62
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:55:52",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 37
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:56:33",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 86
+  },
+  {
+    "session_id": "SESS_00088",
+    "timestamp": "2024-03-10 02:58:05",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00089",
+    "timestamp": "2024-03-14 07:46:36",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00089",
+    "timestamp": "2024-03-14 07:46:54",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 157
+  },
+  {
+    "session_id": "SESS_00089",
+    "timestamp": "2024-03-14 07:49:33",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 145
+  },
+  {
+    "session_id": "SESS_00089",
+    "timestamp": "2024-03-14 07:52:00",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 19
+  },
+  {
+    "session_id": "SESS_00089",
+    "timestamp": "2024-03-14 07:52:26",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 152
+  },
+  {
+    "session_id": "SESS_00090",
+    "timestamp": "2024-03-02 13:10:36",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 63
+  },
+  {
+    "session_id": "SESS_00090",
+    "timestamp": "2024-03-02 13:11:46",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 187
+  },
+  {
+    "session_id": "SESS_00090",
+    "timestamp": "2024-03-02 13:14:56",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 40
+  },
+  {
+    "session_id": "SESS_00090",
+    "timestamp": "2024-03-02 13:15:40",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 207
+  },
+  {
+    "session_id": "SESS_00091",
+    "timestamp": "2024-03-09 19:02:25",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 47
+  },
+  {
+    "session_id": "SESS_00091",
+    "timestamp": "2024-03-09 19:03:15",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 26
+  },
+  {
+    "session_id": "SESS_00091",
+    "timestamp": "2024-03-09 19:03:47",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 69
+  },
+  {
+    "session_id": "SESS_00091",
+    "timestamp": "2024-03-09 19:05:00",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 126
+  },
+  {
+    "session_id": "SESS_00091",
+    "timestamp": "2024-03-09 19:07:09",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "exit",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00092",
+    "timestamp": "2024-03-14 19:46:17",
+    "page_path": "/promo_landing",
+    "page_name": "promo_landing",
+    "page_category": "Promotion",
+    "event_type": "page_view",
+    "dwell_time_seconds": 43
+  },
+  {
+    "session_id": "SESS_00092",
+    "timestamp": "2024-03-14 19:47:02",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 57
+  },
+  {
+    "session_id": "SESS_00092",
+    "timestamp": "2024-03-14 19:48:03",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 47
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:43:25",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 68
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:44:38",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 48
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:45:28",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 44
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:46:19",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 27
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:46:49",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 43
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:47:38",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 53
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:48:38",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 34
+  },
+  {
+    "session_id": "SESS_00093",
+    "timestamp": "2024-03-03 09:49:16",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 101
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:06:45",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:07:21",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:07:42",
+    "page_path": "/product_detail",
+    "page_name": "product_detail",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 39
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:08:23",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 49
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:09:17",
+    "page_path": "/reviews",
+    "page_name": "reviews",
+    "page_category": "Product",
+    "event_type": "page_view",
+    "dwell_time_seconds": 196
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:12:36",
+    "page_path": "/cart",
+    "page_name": "cart",
+    "page_category": "Cart",
+    "event_type": "add_to_cart",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:12:55",
+    "page_path": "/checkout_shipping",
+    "page_name": "checkout_shipping",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 70
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:14:12",
+    "page_path": "/checkout_payment",
+    "page_name": "checkout_payment",
+    "page_category": "Checkout",
+    "event_type": "page_view",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00094",
+    "timestamp": "2024-03-06 08:14:28",
+    "page_path": "/order_confirmation",
+    "page_name": "order_confirmation",
+    "page_category": "Checkout",
+    "event_type": "purchase",
+    "dwell_time_seconds": 29
+  },
+  {
+    "session_id": "SESS_00095",
+    "timestamp": "2024-03-06 18:32:47",
+    "page_path": "/search",
+    "page_name": "search",
+    "page_category": "Search",
+    "event_type": "page_view",
+    "dwell_time_seconds": 10
+  },
+  {
+    "session_id": "SESS_00095",
+    "timestamp": "2024-03-06 18:33:04",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "exit",
+    "dwell_time_seconds": 12
+  },
+  {
+    "session_id": "SESS_00096",
+    "timestamp": "2024-03-02 14:28:36",
+    "page_path": "/home",
+    "page_name": "home",
+    "page_category": "Home",
+    "event_type": "page_view",
+    "dwell_time_seconds": 14
+  },
+  {
+    "session_id": "SESS_00096",
+    "timestamp": "2024-03-02 14:28:57",
+    "page_path": "/catalog_apparel",
+    "page_name": "catalog_apparel",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 191
+  },
+  {
+    "session_id": "SESS_00096",
+    "timestamp": "2024-03-02 14:32:15",
+    "page_path": "/catalog_electronics",
+    "page_name": "catalog_electronics",
+    "page_category": "Catalog",
+    "event_type": "page_view",
+    "dwell_time_seconds": 51
+  }
+]
